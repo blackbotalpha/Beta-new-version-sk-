@@ -1,9 +1,9 @@
-# 𝖦Λ𝖱𝖥𝖨Ξ𝖫𝖣 𝖡𝖮Т LATEST v10 Coming soon 😎
+# 𝗔𝗟𝗣𝗛𝗔 𝖡𝖮Т LATEST v10 Coming soon 😎
 # 🍂 (FIX BUGS And UI UPDATE) Please Select Region To Europe for Access Y2mate server
-<img src="/Cloud/PicsArt_22-04-17_16-25-53-440.png">
+<img src="/Cloud/">
 
 <br>
-<center><img src="/Cloud/PicsArt_22-04-15_10-13-49-205.png"><center>
+<center><img src="/Cloud"><center>
   
  <br>
  <h1> New Features and upgrades v8.5 🛰️</h1>
@@ -26,18 +26,18 @@
   🦋 increase responsibility speed and Accelerated the bot for more fast </b>
   <br>
   <br>
-  <span style="float:right;"><img src="/Cloud/PicsArt_22-04-14_23-29-34-684.png"></span>
+  <span style="float:right;"><img src="/Cloud/PicsArt_22-04g"></span>
 
   <br>
  
-<b><h1>What is Garfield Whatsapp Bot 🐼</h1></b>
+<b><h1>What is ALPHA Whatsapp Bot 🐼</h1></b>
 <b>Garfield is a WhatsApp user bot by [NOIZE PROJECTS](https://github.com/Zenoixnoize) 
 and powered by [X-nodes server](https://www.npmjs.com/package/aurora-npm).
-Garfield can make your work easier and do whatever you want. You can easily install this. This is updated daily. Once you install it, it will continue to be an indispensable tool for you
+alpha can make your work easier and do whatever you want. You can easily install this. This is updated daily. Once you install it, it will continue to be an indispensable tool for you
 Contains over 200+ plugins. This will give you a better experience on WhatsApp. You can download songs and videos fast. This is updated daily so more features are always added
 .This allows you to have fun with friends<b>
  
-  <img src="/Cloud/PicsArt_22-04-17_17-34-37-772.png">
+  <img src="/Cloud/PicsArt_22-04g">
     
   <b><h1>To scan the Qr code and Link 🔗 to WhatsApp Multi Device (24×7 Hour Bot) 🛰️</b></h1>
   
