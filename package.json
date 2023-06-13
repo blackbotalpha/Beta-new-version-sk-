@@ -1,5 +1,5 @@
 {
-  "name": "Garfield-Bot",
+  "name": "☰𝗗𝗔𝗥𝗞-𝗦𝗛𝗔𝗗𝗢𝗪🖖",
   "version": "10.0.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "TharinduLiyanage",
+  "author": "𝗕𝗬:𝗦𝗨𝗡𝗘𝗧𝗛",
   "license": "MIT",
   "dependencies": {
     "garfield-bot-db": "20.0.0",
@@ -74,7 +74,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8.git"
+    "url": "git+https://github"
   },
   "bugs": {
     "url": "https://github.com/Zenoixnoize/GARFIELD-WHATSAPP-BOT-v8/issues"
